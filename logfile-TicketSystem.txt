@@ -1,0 +1,49 @@
+Initialized tickets. Total tickets: 10
+
+Customer-1 purchased 2 tickets 
+Total tickets: 8
+
+Vendor-5 added 2 tickets 
+total tickets: 10
+
+Customer-4 purchased 7 tickets 
+Total tickets: 3
+
+Vendor-4 added 3 tickets 
+total tickets: 6
+
+Customer-3 purchased 6 tickets 
+Total tickets: 0
+
+Vendor-3 added 4 tickets 
+total tickets: 4
+
+Customer-4 purchased 2 tickets 
+Total tickets: 2
+
+Vendor-1 added 5 tickets 
+total tickets: 7
+
+Customer-4 purchased 3 tickets 
+Total tickets: 4
+
+Vendor-5 added 6 tickets 
+total tickets: 10
+
+Customer-1 purchased 5 tickets 
+Total tickets: 5
+
+Vendor-2 added 1 tickets 
+total tickets: 6
+
+Customer-4 purchased 4 tickets 
+Total tickets: 2
+
+Vendor-2 added 4 tickets 
+total tickets: 6
+
+Customer-4 purchased 3 tickets 
+Total tickets: 3
+
+All the threads have been interrupted.
+Ticket System has been stopped.
